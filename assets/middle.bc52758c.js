@@ -1,1 +1,0 @@
-import{_ as e,c as o,o as t}from"./index.6be579bd.js";const r={name:"Middle",mounted(){this.$router.go(-1)}};function c(n,s,a,d,_,i){return t(),o("div")}const m=e(r,[["render",c]]);export{m as default};

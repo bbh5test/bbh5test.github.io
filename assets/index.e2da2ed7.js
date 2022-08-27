@@ -1,0 +1,1 @@
+import{_ as o,f as t,o as n,r}from"./index.db2949da.js";const s={name:"UserInfoIndex",computed:{},watch:{},mounted(){},methods:{}};function c(a,_,p,d,m,f){const e=r("router-view");return n(),t(e)}const i=o(s,[["render",c]]);export{i as default};
