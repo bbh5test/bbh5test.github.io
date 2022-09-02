@@ -1,0 +1,1 @@
+import{_ as o,g as t,o as n,r}from"./index.84cb370a.js";const s={name:"UserInfoIndex",computed:{},watch:{},mounted(){},methods:{}};function c(a,_,p,d,m,u){const e=r("router-view");return n(),t(e)}const i=o(s,[["render",c]]);export{i as default};
